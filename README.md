@@ -76,9 +76,6 @@ Because of these existing and developed features new upcoming editors can start 
 Develop more in-depth, interactive tutorials covering advanced editing techniques like creating tables, managing references with tools, and incorporating multimedia elements.
 Train chatbot to remember past interactions for relevant future responses.  User scripts can create a persistent chat window and contextual help overlays. This improves user experience and avoids repetitive information. Editors get a more natural conversation flow for better learning and contribution.
 
-## **Presentation:**
-
-[Link to the presentation](https://www.canva.com/design/DAF-_PqnNJI/Dr-EUQCYtOp65mK2Uvogpg/view)
 
 ## **References:**
 Mathur, Taneesha (2023-03-21). ["Text Similarity in NLP"](https://www.scaler.com/topics/nlp/text-similarity-nlp/). Scaler Topics. Retrieved 2024-03-09.
