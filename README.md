@@ -49,7 +49,7 @@ css
 - nltk-Natural Language ToolKit
 - langdetect- language detection library
 - spacy- Natural Language processing
-- json-api's
+- json-API's
 
 ## **Existing System:**
 
