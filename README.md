@@ -1,4 +1,4 @@
-# WIKI WOMEN HACK{A}THON
+#HACK{A}THON
 
 ## **Problem Statement:**
 
